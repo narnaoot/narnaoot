@@ -8,4 +8,4 @@ Fun fact: I'm a passionate reader, and occasional writer, of science fiction.  I
 
 ## Data Analytics Projects
 1. Tutorial on explainability with the SHAP package in Python.
-2. 
+2. This site was built using [GitHub Pages](https://pages.github.com/).
