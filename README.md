@@ -8,4 +8,4 @@ Fun fact: I'm a passionate reader, and occasional writer, of science fiction.  I
 
 ## Data Analytics Projects
 1. [Tutorial on explainability](https://github.com/narnaoot/explainability/blob/b9040434a80d28159401cdce369c1c43e47e742a/Explainable%20AI.ipynb) with the SHAP package in Python: Ever wanted to understand why your model made a particular prediction, or to explain it to somebody else? SHAP can help; here's a quick explanation of how it works and how to use it.
-2. This site was built using [GitHub Pages](https://pages.github.com/).
+
