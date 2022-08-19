@@ -7,5 +7,5 @@ I’m looking for work in the public sector, and I'm particularly excited about 
 Fun fact: I'm a passionate reader, and occasional writer, of science fiction.  I like the stuff that explores radically different ways people can live.
 
 ## Data Analytics Projects
-1. Tutorial on explainability with the SHAP package in Python.
+1. [Tutorial on explainability] (Explainable AI.ipynb) with the SHAP package in Python.
 2. This site was built using [GitHub Pages](https://pages.github.com/).
