@@ -9,5 +9,5 @@ Fun fact: I'm a passionate reader, and occasional writer, of science fiction.  I
 ## Data Analytics Projects
 1. [Tutorial on explainability](https://github.com/narnaoot/explainability/blob/b9040434a80d28159401cdce369c1c43e47e742a/Explainable%20AI.ipynb) with the SHAP package in Python: Ever wanted to understand why your model made a particular prediction, or to explain it to somebody else? SHAP can help; here's a quick explanation of how.
 2. [Secret gardens of San Francisco](https://public.tableau.com/app/profile/nabil.arnaoot/viz/SecretGardensofSanFrancisco/SecretGardensofSanFrancisco): Filterable map and visual exploration of the mysterious privately-owned public open spaces hidden on roofs and around the corners of the city.
-3. [Case Study: Quality Control with Hypothesis Testing] (https://rpubs.com/n4bil/case_study) shows how hypothesis testing can be used to maintain quality control in manufacturing. Written in R, published with R pubs.
+3. [Case Study: Quality Control with Hypothesis Testing](https://rpubs.com/n4bil/case_study) shows how hypothesis testing can be used to maintain quality control in manufacturing. Written in R, published with R pubs.
 
