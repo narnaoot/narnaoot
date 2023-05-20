@@ -7,6 +7,7 @@ I like using data to solve problems and guide strategy, and I'm currently lookin
 Fun fact: I'm a passionate reader, and occasional writer, of science fiction.  I like the stuff that explores radically different ways people can live.
 
 ## Data Analytics Projects
+3. [The Digital Divide: Internet Access across the US](https://public.tableau.com/app/profile/nabil.arnaoot/viz/TheDigitalDivideInternetAccessAcrosstheUS/USAreaswithPoorInternet)
 1. [The Digital Divide: Internet Access across the US] (https://public.tableau.com/app/profile/nabil.arnaoot/viz/TheDigitalDivideInternetAccessAcrosstheUS/USAreaswithPoorInternet) Practicum project for MS degree: We scraped information on internet plans for all zip codes in the US, then mapped it along with census information for a filterable map on areas with high digital divide.
 2. [Tutorial on explainability](https://github.com/narnaoot/explainability/blob/b9040434a80d28159401cdce369c1c43e47e742a/Explainable%20AI.ipynb) with the SHAP package in Python: Ever wanted to understand why your model made a particular prediction, or to explain it to somebody else? SHAP can help; here's a quick explanation of how.
 3. [Secret gardens of San Francisco](https://public.tableau.com/app/profile/nabil.arnaoot/viz/SecretGardensofSanFrancisco/SecretGardensofSanFrancisco): Filterable map and visual exploration of the mysterious privately-owned public open spaces hidden on roofs and around the corners of the city.
