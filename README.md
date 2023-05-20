@@ -1,6 +1,6 @@
 # Hi there!
 
-My name is Nabil Arnaoot and I live in San Francisco.  After twenty years in tech, most recently as a Business Process Engineer at Apple, I'm earning an MS from Saint Mary's College in Business Analytics.  I’m currently working on a practicum project mapping and analyzing internet access across the US.
+My name is Nabil Arnaoot and I live in San Francisco.  After twenty years in tech, most recently as a Business Process Engineer at Apple, I just finished an MS from Saint Mary's College in Business Analytics.  My practicum project was mapping and analyzing internet access across the US.
 
 I like using data to solve problems and guide strategy, and I'm currently looking for work. Drop me a line if you have any cool projects you'd like to collaborate on!
 
