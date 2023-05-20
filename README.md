@@ -14,5 +14,6 @@ Fun fact: I'm a passionate reader, and occasional writer, of science fiction.  I
 5. [Case Study: Quality Control with Hypothesis Testing](https://rpubs.com/n4bil/case_study): Case study demonstrating how hypothesis testing can be used to maintain quality control in a manufacturing use case. Written in R, published with R pubs.
 
 ## Data Analytics Tutorials
-1.  
+[Check Medium for my latest tutorials,](https://medium.com/@narnaoot) or go directly to some of my favorites.
+
 
