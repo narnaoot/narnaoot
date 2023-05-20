@@ -15,6 +15,11 @@ Fun fact: I'm a passionate reader, and occasional writer, of science fiction.  I
 
 ## Data Analytics Tutorials
 [Check Medium for my latest tutorials,](https://medium.com/@narnaoot) or go directly to some of my favorites.
+4. [Case study: Perceptions of Tesla]([https://github.com/narnaoot/tesla_research/blob/main/TeslaPerceptionsCaseStudy.pdf](https://medium.com/@narnaoot/mapping-addresses-in-tableau-7e7a6b2e73cf)): In order to compare customer perceptions of Tesla's luxury cars with its competitors, my team ran surverys, created perceptual maps and other analysis in Tableau, and presented our findings and recommendations in this final PowerPoint deck.
+
+
+
+https://medium.com/@narnaoot/mapping-addresses-in-tableau-7e7a6b2e73cf
 
 [Check Medium for my latest tutorials,]([https://medium.com/@narnaoot](https://medium.com/@narnaoot/mapping-addresses-in-tableau-7e7a6b2e73cf))
 
