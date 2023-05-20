@@ -14,9 +14,9 @@ Fun fact: I'm a passionate reader, and occasional writer, of science fiction.  I
 5. [Case Study: Quality Control with Hypothesis Testing](https://rpubs.com/n4bil/case_study): Case study demonstrating how hypothesis testing can be used to maintain quality control in a manufacturing use case. Written in R, published with R pubs.
 
 ## Data Analytics Tutorials
-[Check Medium for my latest tutorials,](https://medium.com/@narnaoot) or go directly to some of my favorites.
+[Read my tutorials on Medium,](https://medium.com/@narnaoot) or check out some of my recent favorites.
 
-[Check Medium for my latest tutorials,](https://medium.com/@narnaoot/mapping-addresses-in-tableau-7e7a6b2e73cf) or go directly to some of my favorites.
-
+1. [Mapping Addresses in Tableau](https://medium.com/@narnaoot/mapping-addresses-in-tableau-7e7a6b2e73cf) Use Tableau Prep to turn street addresses into mappable latitudes and longitudes.
+2. [Conditional Probability for Normal People](https://medium.com/@narnaoot/conditional-probability-for-normal-people-139dfcaa9ef8) One of the trickier concepts in statistics.
 
 
