@@ -16,7 +16,7 @@ Fun fact: I'm a passionate reader, and occasional writer, of science fiction.  I
 ## Data Analytics Tutorials
 [Check Medium for my latest tutorials,](https://medium.com/@narnaoot) or go directly to some of my favorites.
 
-[Check Medium for my latest tutorials,](https://medium.com/@narnaoot) or go directly to some of my favorites.
+[Check Medium for my latest tutorials,](https://medium.com/@narnaoot/mapping-addresses-in-tableau-7e7a6b2e73cf) or go directly to some of my favorites.
 
 
 
