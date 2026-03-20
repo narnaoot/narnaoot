@@ -20,3 +20,4 @@ Fun fact: I'm a passionate reader, and occasional writer, of science fiction.  I
 2. [Conditional Probability for Normal People](https://medium.com/@narnaoot/conditional-probability-for-normal-people-139dfcaa9ef8) One of the trickier concepts in statistics.
 
 
+Trying to push nametag-web down in list.
